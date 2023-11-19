@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Базовый стиль для всего приложения -->
     <style name="Theme.AppPrasdniki" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Пользовательские цвета, шрифты, и другие атрибуты стиля -->
+
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <!-- Другие пользовательские атрибуты стиля -->
-
     </style>
 
 </resources>

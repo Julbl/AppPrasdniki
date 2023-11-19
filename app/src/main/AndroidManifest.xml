@@ -22,7 +22,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".HolidayDetailsActivity">
+            android:name=".HolidayDetailsActivity"
+            android:parentActivityName=".MainActivity">
         </activity>
     </application>
 </manifest>

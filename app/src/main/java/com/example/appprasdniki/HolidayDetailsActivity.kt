@@ -2,9 +2,10 @@ package com.example.appprasdniki
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.MenuItem
 import android.widget.ImageView
 import android.widget.TextView
-import androidx.appcompat.widget.Toolbar
+
 
 
 class HolidayDetailsActivity : AppCompatActivity() {
@@ -19,7 +20,6 @@ class HolidayDetailsActivity : AppCompatActivity() {
 
         // Получение данных о празднике, переданных из предыдущей активности
         val holiday = intent.getSerializableExtra("holiday") as Holiday
-        val toolbar: Toolbar = findViewById(R.id.toolbar)
         // setSupportActionBar(toolbar)
 
         // Установка информации о празднике в элементы макета
@@ -30,11 +30,18 @@ class HolidayDetailsActivity : AppCompatActivity() {
 
         // Показать кнопку возврата
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
+        supportActionBar?.setHomeButtonEnabled(true)
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+    }
 
-        // Добавить вашу собственную кнопку
-        toolbar.findViewById<ImageView>(R.id.myCustomBackButton).setOnClickListener {
-            // Действие, выполняемое при нажатии на кнопку
-            finish() // закрыть текущую активность и вернуться на предыдущую
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when (item.itemId) {
+            android.R.id.home -> {
+                // Действие, выполняемое при нажатии на кнопку возврата
+                finish()
+                return true
+            }
+            else -> return super.onOptionsItemSelected(item)
         }
     }
 }
