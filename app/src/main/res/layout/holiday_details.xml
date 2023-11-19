@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- holiday_details.xml -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Добавьте Toolbar с кнопкой возврата -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"/>
+
+        <ImageView
+            android:id="@+id/myCustomBackButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/arrow_back_ios_new_24px"
+            android:contentDescription="@string/back_to_main" />
+
+    <ImageView
+        android:id="@+id/holiday_image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/default_holiday_image" />
+
+    <TextView
+        android:id="@+id/holiday_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/holiday_image"
+        android:layout_marginTop="15dp"
+        android:padding="16dp"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/holiday_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/holiday_name"
+        android:layout_marginTop="11dp"
+        android:padding="16dp" />
+
+    <TextView
+        android:id="@+id/holiday_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/holiday_date"
+        android:layout_marginTop="36dp"
+        android:padding="16dp" />
+
+
+</RelativeLayout>
