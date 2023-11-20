@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val listView = findViewById<ListView>(R.id.holiday_list)
-        val sectionHeader = findViewById<TextView>(R.id.section_header)
+        //val sectionHeader = findViewById<TextView>(R.id.section_header)
 
         // Предположим, у вас есть список праздников и соответствующий адаптер
         val holidayList: List<Holiday> = listOf(
