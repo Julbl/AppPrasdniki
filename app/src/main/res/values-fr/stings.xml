@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application de Prazdniki</string>
+    <string name="back_to_main">En arrière</string>
+    <string name="settings_button_description">Paramètres de l\'application</string>
+    <string name="title_activity_settings">Paramètres d\'activité</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Réglages</string>
+    <string name="sync_header">Sync</string>
+
+    <string name="holiday_new_year">le Nouvel an</string>
+    <string name="holiday_description_new_year">En passant, pour les habitants des villes Russes, le Nouvel an est la principale fête de l\'hiver et est célébré le 1er janvier. Cependant, parmi les citadins, il existe des exceptions qui ne célèbrent pas le Nouvel an. La vraie fête pour le croyant est Noël. Et devant lui, un strict poste de Noël qui dure 40 jours. Il commence le 28 novembre et ne se termine que le 6 janvier, dans la soirée, avec le lever de la première étoile. Il y a même des villages, des villages où tous les habitants du Nouvel an ne célèbrent pas ou ne le célèbrent pas le 13 janvier ( 1er janvier selon le style Julien), après le jeûne et Noël.
+
+                            Et maintenant, revenons à l\'histoire de la célébration du Nouvel an en Russie
+
+                            La célébration du nouvel an en Russie a un destin aussi complexe que son histoire elle-même. Tout d\'abord, tous les changements dans la célébration du nouvel an ont été liés aux événements historiques les plus importants, affectant tout l\'état et chaque personne individuellement. Il ne fait aucun doute que la tradition populaire, même après les changements officiellement introduits dans le calendrier, a longtemps conservé les anciennes coutumes.</string>
+    <string name="holiday_independence_day">Jour de l\'Indépendance des États-Unis</string>
+    <string name="holiday_description_independence_day">Le jour de l\'indépendance (Independence Day) — le jour de l\'adoption de la Déclaration d\'indépendance des États — Unis en 1776, qui a proclamé l\'indépendance des États-Unis du Royaume de grande-Bretagne-est considéré comme l\'anniversaire des États-Unis en tant que pays libre et indépendant. La plupart des américains appellent cette fête simplement par sa date — le Quatrième de juillet (Fourth of July).
+
+                            Le 4 juillet 1776, le Congrès a approuvé la Déclaration d\'indépendance (Declaration of Independence), signée par John Hancock, président du Deuxième congrès Continental, et Charles Thomson, secrétaire du congrès Continental.
+
+                            À cette époque, les habitants des 13 colonies britanniques situées le long de la côte est du territoire actuel des États-Unis se sont battus contre le roi et le Parlement anglais parce qu\'ils pensaient qu\'ils les traitaient injustement. La guerre a commencé en 1775.</string>
+    <string name="holiday_valentines_day">Saint Valentin</string>
+    <string name="holiday_description_valentines_day">Lupercalia et Saint Valentin. Histoire de la fête
+                            Selon la version la plus populaire, les racines de cette fête remontent à la Rome Antique: le 14 février, les romains honoraient la déesse Juno, patronne des femmes, du mariage et de la maternité. Et le 15 février a commencé Lupercalia-le Festival de la fertilité.
+
+                            Ce jour-là, les prêtres luperques se déshabillaient (parfois en se couvrant de peau de chèvre), prenaient des Carreaux rituels à partir de morceaux de peau de chèvre et couraient dans la ville, frappant les femmes venant en sens inverse. On croyait que ces coups rituels sauvaient de l\'infertilité, donnaient une grossesse et un accouchement faciles, de sorte que les romains étaient volontiers substitués aux parasites, a écrit l\'historien antique Plutarque. Ils ont également parlé des orgies que les jeunes auraient organisées en l\'honneur de cette fête.</string>
+    <string name="holiday_chusok">Chhusok</string>
+    <string name="holiday_description_chusok">La fête d\'automne Chuseok — Chuseok) — le jour de la pleine lune-est une fête que tous les habitants de la Corée moderne attendent avec impatience. Chhusok est célébré le 15ème jour du 8ème mois lunaire.
+
+                            Mais plus précisément, Chhusok dure trois jours — le premier et le troisième jour du Festival ont lieu en dehors des frais et sur la route. Le point culminant de la fête est le jour du milieu — le 15ème jour du 8ème mois lunaire.
+
+                            Chhusok avec Sollal est l\'une des fêtes les plus importantes de l\'année, c\'est une fête des récoltes et des remerciements à la terre pour sa générosité. Les gens viennent chez leurs parents pour passer cette fête ensemble.
+
+                            Les autoroutes sont remplies de chaînes de voitures sans fin et presque tous les établissements et magasins ferment pendant trois jours. Les familles se réunissent, rendent hommage à des proches décédés et visitent leurs tombes.
+
+                            Tout le monde s\'efforce de célébrer la fête de Chhusok dans leur pays d\'origine. Les commandes de billets pour les avions et les trains sont généralement faites à l\'avance quelques mois avant les vacances.</string>
+    <string name="holiday_march_8th">Journée internationale de la femme</string>
+    <string name="holiday_description_march_8th">Histoire de La journée internationale de la femme:
+                            La journée internationale de la femme (8 mars) est célébrée dans le monde entier. Cette journée célèbre les réalisations des femmes, quelles que soient les frontières nationales ou les différences ethniques, linguistiques, culturelles, économiques et politiques. L  apos; idée de la journée internationale de la femme est apparue pour la première fois au début du XXe siècle, alors que le monde industrialisé traversait une période d  apos; expansion et de bouleversement, de boom démographique et d  apos; idéologies radicales.
+
+                            Depuis ces premières années, la journée internationale de la femme a pris une nouvelle dimension mondiale pour les femmes des pays développés et des pays en développement. Le mouvement international des femmes, qui s\'est renforcé à la suite des quatre conférences mondiales des Nations Unies sur les femmes, a contribué à faire de cette manifestation un élan donné à un effort coordonné pour donner aux femmes les moyens de participer au processus politique et économique.
+
+                            Nous vous invitons à vous familiariser avec l\'histoire du mouvement pour les droits des femmes.
+
+                            L\'ONU et l\'égalité des sexes
+                            La Charte des Nations Unies, signée à San Francisco en 1945, a été le premier accord international à proclamer l\'égalité entre les hommes et les femmes en tant que droit fondamental de l\'homme. Depuis lors, l  apos; Organisation a contribué à l  apos; établissement d  apos; un ensemble historique de politiques, de normes, de programmes et d  apos; objectifs convenus au niveau international pour améliorer la situation des femmes dans le monde entier.
+
+                            Au fil des ans, l\'ONU et ses institutions spécialisées ont travaillé pour faire participer les femmes, en tant que partenaires égaux, à des programmes visant à réaliser le développement durable, la paix, la sécurité et le plein respect des droits de l\'homme. L\'autonomisation des femmes reste l\'une des principales activités de l\'ONU dans ses efforts pour résoudre les problèmes sociaux, économiques et politiques dans le monde entier.</string>
+    <string name="holiday_easter">Pâque</string>
+    <string name="holiday_description_easter">Pâques est la fête principale pour les chrétiens, qui symbolise le soulèvement salvateur des morts de Jésus-Christ. Ce jour-là, notre Sauveur est venu dans le monde pour le sauver du péché, pour entrer en Enfer après sa mort et briser ses liens, pour ouvrir les portes du paradis à tous ceux qui veulent le salut et la vie éternelle.</string>
+    <string name="holiday_space_day">Journée de l\'astronautique</string>
+    <string name="holiday_description_space_day">L\'exploration de l\'espace a toujours agité les esprits des scientifiques et des testeurs. Et le 12 avril 1961, le satellite Vostok a été lancé dans l\'espace pour la première fois avec un homme à bord. Le pilote du navire est devenu le pilote-cosmonaute soviétique Yuri Gagarine, qui s\'est ensuite transformé en un symbole de la conquête de l\'espace et est devenu l\'une des personnes les plus célèbres du XXe siècle. Sergey Korolev, Leonid Voskresensky et Anatoly Kirillov ont dirigé le lancement historique. Le lancement du navire a été réussi et, après la séparation du dernier étage du lanceur Vostok, il a fait un vol libre autour de notre planète.
+
+                            Le survol du Globe a pris 108 minutes, après quoi le navire a atterri à l\'endroit prévu à 10 heures 55 minutes, heure de Moscou, près du village de Smelovka, dans la région de Saratov.
+
+                            Selon les estimations modernes, le succès du vol n\'était pas supérieur à 46%, ce qui était alors fortement influencé par la hâte avec laquelle le premier vol humain dans l\'espace était préparé. En outre, on ne savait pas avec certitude comment le séjour dans l\'espace peut affecter la psyché humaine. Mais heureusement, tout s\'est passé de la meilleure façon.
+
+                            Plus tard, le cosmonaute Herman Titov a proposé de créer une journée de l\'astronautique en Union soviétique et dans le monde entier. En novembre 1968, lors de la conférence générale de la Fédération aéronautique Internationale, il a été décidé d\'approuver le 12 avril comme journée mondiale de l\'aviation et de l\'espace. Et le 7 avril 2011, lors d\'une séance plénière spéciale de l\'Assemblée générale des Nations Unies, une résolution a été adoptée, proclamée journée internationale du vol spatial humain le 12 avril.
+
+                            Cet événement est une étape colossale pour toute l\'humanité, qui a ouvert l\'exploration humaine guidée de l\'espace.</string>
+    <string name="holiday_science_fiction_day">Journée de la science-fiction</string>
+    <string name="holiday_description_science_fiction_day">Parmi les amateurs de divers genres littéraires, il y a beaucoup de fans de science-fiction, Unis par l\'amour de cette direction dans la littérature, le cinéma et d\'autres formes d\'art.
+                            Toutes sortes de forums, expositions, conférences littéraires rassemblent des écrivains et des lecteurs, des scénaristes et des fans du genre de la science-fiction dans différents pays. Chacun d\'eux a certaines préférences liées aux directions qui existent dans le genre lui-même. Mais de telles directions sont développées beaucoup. Chacun d\'eux est basé sur certaines hypothèses (fiction, imagination, imagination) dans le domaine de la science et de la technologie et leur influence sur le monde environnant et l\'homme. Chacun porte certains traits de genre «science-fiction» solide, science-fiction sociale, chronophanthastica, fiction historique alternative, science-fiction apocalyptique et post-apocalyptique, Space Opera ou science-fiction planétaire, cyberpunk et autres.</string>
+    <string name="holiday_day_of_love">Jour de l\'amour</string>
+    <string name="holiday_description_day_of_love">La journée de la famille, de l\'amour et de la fidélité est une fête en Russie, célébrée le 8 juillet et consacrée à la journée orthodoxe de la mémoire des saints Prince pierre et sa femme Fevronia. Officiellement établi, comme un jour férié, en Russie par décret Présidentiel du 28 juin 2022.</string>
+    <string name="holiday_mothers_day">Fête des mères</string>
+    <string name="holiday_description_mothers_day">Même les anciens grecs avaient un culte de la mère: en mars, en l\'honneur de Rhea, l\'ancêtre des dieux, divers mystères ont eu lieu. En grande-Bretagne, le quatrième dimanche de Carême était considéré comme «maternel» (Mothering Sunday). Aux XVIIe et XIXe siècles, ce jour-là, toutes les mères du pays ont été félicitées.
+
+                            Aux États-Unis, l\'une des premières à célébrer la fête a été proposée par Julia Ward Hove en 1872. Cette idée n\'a pas été soutenue à l\'époque. Mais l\'initiative de sa compatriote Anna Jarvis en 1907 a trouvé une réponse. Le premier état fut la Virginie en 1910. C\'est là que la fête des mères a été célébrée pour la Première fois. Et après 4 ans, par décision du président américain Woodrow Wilson, il s\'est étendu à tout le pays.
+
+                            La première tentative d\'établir la Fête des mères en Russie a eu lieu en 1915. Ce jour est venu le 1er décembre, mais n\'a pas été fixé dans le calendrier populaire. Plus tard, déjà en URSS, l\'institutrice Elmira Huseynova a pris l\'initiative de créer la Fête des mères et elle l\'a tenue dans l\'une des écoles de Bakou le 30 octobre 1988.
+
+                            Dans les années 1990, l\'idée de créer la Fête des mères est revenue à nouveau. L\'initiateur était Alevtina aparina, député de la Douma d\'Etat de la Fédération de Russie, membre du Comité des affaires féminines, de la famille et de la jeunesse. Et en 1998, le président de la Fédération de Russie a signé un décret instituant la fête, dont le but était de rappeler le rôle important de la mère dans la vie de chaque personne.</string>
+    <string name="holiday_fathers_day">Fête des pères</string>
+    <string name="holiday_description_fathers_day">Tout a commencé en 2008, qui a été déclarée l\'Année de la famille et a été marquée par une série d\'innovations visant à maintenir les valeurs familiales. Entre autres choses, dans les journaux et dans les tribunes, des propositions ont souvent été faites pour souligner le rôle masculin dans l\'éducation des enfants.
+
+                            La proposition officielle d\'approuver la fête des pères comme une fête généralement acceptée a été faite par le ministère du travail à l\'été 2021.
+
+                            Ensuite, la date a été proposée-le dimanche 3 d\'octobre. Ensuite, les célébrations locales ont déjà eu lieu dans les régions russes 28. Le président a soutenu cette initiative, et le 4 octobre 2021, un décret a été signé, qui a appelé tous les russes à féliciter les Papes en octobre.
+
+                            Traditions en vacances
+                            En Russie, les canons spécifiques de la célébration n\'ont pas encore évolué, mais c\'est exactement l\'occasion de réunir toute la famille à une grande table, de préparer quelque chose de délicieux ou simplement de boire du thé avec des petits gâteaux frais parfumés.
+
+                            Les enfants préparent des cadeaux pour les papas de leurs propres mains: cartes postales, artisanat, dessins. Les fils et les filles qui ont grandi choisissent comme cadeau des équipements sportifs, des accessoires pour hommes et des Cosmétiques de soins. Et en Europe, les enfants adultes ont tendance à emmener papa quelque part loin de chez eux: dans les bois, à la pêche, à une petite randonnée ou même à une courte croisière.</string>
+    <string name="theme_name">Thème sombre</string>
+
+</resources>

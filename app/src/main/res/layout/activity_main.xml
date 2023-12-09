@@ -1,11 +1,48 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:clickable="false"
+    android:id="@+id/linearLayoutRoot"
+    android:background="?attr/myColorBGRoot">
 
-    <ListView
-        android:id="@+id/holiday_list"
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/scrollView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="wrap_content">
 
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="0.5dp"
+            android:background="?attr/myColorBG">
 
-</RelativeLayout>
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+    <TextView
+        android:id="@+id/holiday_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="#FF4081"
+        android:layout_marginTop="4dp"
+        android:padding="8dp"
+        android:layout_marginLeft="6dp"/>
+
+    <TextView
+        android:id="@+id/holiday_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:padding="8dp"
+        android:textSize="13sp"
+        android:textColor="?attr/colorTextForDate"
+        android:layout_marginLeft="6dp"/>
+</LinearLayout>

@@ -1,0 +1,16 @@
+<resources>
+
+    <string-array name="language_entries">
+        <item>Русский</item>
+        <item>French</item>
+        <!-- Добавьте другие языки по мере необходимости -->
+    </string-array>
+
+    <string-array name="language_values">
+        <item>ru</item>
+        <item>fr</item>
+        <!-- Добавьте соответствующие коды языков для других языков -->
+    </string-array>
+
+
+</resources>

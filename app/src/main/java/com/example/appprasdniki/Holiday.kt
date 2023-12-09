@@ -1,6 +1,7 @@
 package com.example.appprasdniki
 
 import java.io.Serializable
+import java.util.Date
 
 data class Holiday(
     val name: String,
